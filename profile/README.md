@@ -130,7 +130,7 @@ Ainjazha Management System is a web and mobile-based platform for outsourcing ta
 ## Database Requirements 
 ## Database Design
 
-You can see the database design from [here](https://drawsql.app/teams/admin-43/diagrams/anjazha).
+You can see the database design from [here](../anejzha_erd_diagram.png).
 
 - Support for both SQL and NoSQL databases with minimal changes.
 - Data migration tools for smooth transition between databases.
