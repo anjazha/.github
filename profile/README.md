@@ -5,7 +5,7 @@
 **Version**: 1.0  
 **Date**: 2024  
 ---
-You can find project pdf documentation [here]()
+You can find project PDF documentation [here](./ainjezha%20managment%20system.pdf)
 
 ## Table of Contents
 
