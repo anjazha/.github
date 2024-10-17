@@ -7,7 +7,7 @@ Welcome to **Anjezha**, a platform that bridges the gap between skilled crafters
 
 ## 📋 **Table of Contents**
 
-- [💡 The Idea](#the-idea)
+- [💡 The Idea](#The Idea)
   - [🚨 The Problem](#the-problem)
   - [✨ Our Solution](#our-solution)
 - [⚙️ Key Features](#key-features)
