@@ -24,7 +24,7 @@ Welcome to **Anjezha**, a platform that bridges the gap between skilled crafters
 
 ---
 
-## 💡 **The Idea**
+## 💡 The Idea
 
 We live in a world where many talented crafters are hard to find, even though their skills are highly sought after. **Anjezha** was born out of the need to help people connect with these talented individuals. Our platform aims to make it easy for users to find skilled taskers (crafters, workers, freelancers) and for taskers to showcase their expertise.
 
